@@ -1,3 +1,1 @@
-import dotenv from 'dotenv';
-import './server.js'
-
+import './server.js';
